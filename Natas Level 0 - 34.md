@@ -29,3 +29,18 @@ This brings up the source code of what is currently running on the page, we expa
 
 ----
 
+### Natas Level 1 | Access Denied 
+
+In Level 1 we are met with a similar message as level 0 with the addition of right clicking being disabled.
+
+![[Pasted image 20221227223839.png]]
+
+Attempting to right click anywhere on the page results in a popup window restating that right clicking is blocked.
+
+![[Pasted image 20221227223852.png]]
+
+There are few ways around this blocking, if we are using a Google Chrome Browser, we can press CTRL + SHIFT + I to open the Developer Tools or CTRL + U to see the pages’ source code.
+
+![[Pasted image 20221227223902.png]]
+
+And with this we can see the flag for level 2 in the same spot as last time.
